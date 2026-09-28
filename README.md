@@ -1,1 +1,1 @@
-# oszt-ly
+# osztály
